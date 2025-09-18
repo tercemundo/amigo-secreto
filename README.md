@@ -1,6 +1,7 @@
 # Amigo Secreto
 
 Este es un sencillo proyecto para realizar el sorteo del "Amigo Secreto".
+Desarrollado por Marcelo Guazzardo
 
 ## Descripción
 

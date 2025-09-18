@@ -1,7 +1,6 @@
 # Amigo Secreto
 
 Este es un sencillo proyecto para realizar el sorteo del "Amigo Secreto".
-Desarrollado por Marcelo Guazzardo
 
 ## Descripción
 
@@ -24,8 +23,12 @@ Esta aplicación web te permite agregar una lista de participantes y luego sorte
 4.  Repite el proceso hasta que hayas agregado a todos los participantes.
 5.  Haz clic en el botón "Sortear amigo" para descubrir quién es el "Amigo Secreto".
 
+6. Tip. Tambien puedes usar si tienes python instalado, python -m http.server
+
 ## Tecnologías Utilizadas
 
 - HTML
 - CSS
 - JavaScript
+
+# Desarrollado por Marcelo Guazzardo. mguazzardo76@gmail.com
